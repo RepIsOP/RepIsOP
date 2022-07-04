@@ -1,4 +1,4 @@
-if (command.getName().equalsIgnoreCase("telegram")) {
+if (command.getName().equalsIgnoreCase("RepIsOP")) {
     if (sender instanceof Player) ;
               Player p = (Player) sender;
               p.sendMessage("RepIsOP");
